@@ -1,3 +1,5 @@
+package pertemuan2;
+
 public class Node {
     private int nilai;
     private Node next;
