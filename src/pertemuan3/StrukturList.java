@@ -38,4 +38,9 @@ public class StrukturList {
         newNode.setNext(HEAD);
         HEAD = newNode;
     }
+
+	public void addMid(int i, int j) {
+		// TODO Auto-generated method stub
+		
+	}
 }
